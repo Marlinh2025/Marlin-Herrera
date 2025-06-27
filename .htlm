@@ -1,0 +1,53 @@
+# Marlin-Herrera
+<!--Tarea De Inframe-->
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Tarea de Inframe">
+    <meta name="keywords" content="fuentes">
+    <meta name="author" content="Marlin Joel Herrera">
+    <title>Tarea De Inframe</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?famiyl=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
+
+    <!--favicon con formato .svg-->
+    <link rel="icon" type="image/svg+xml" href="uth.svg">
+</head>
+
+<body>
+    <header></header>
+    <nav></nav>
+    <section>
+        <h2>Video: Explicación de HTML4 vs HTML5</h2>
+        <article>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/THBjzAOwaLQ"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </article>
+
+        <h2>Ubicación: Palacio Municipal de Catacamas, Olancho</h2>
+        <article>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2066.8890759286!2d-86.2162592111374!3d14.670831650924555!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6c72fd79178161%3A0x63a3329913cd61b7!2sPalacio%20Municipal%20de%20Catacamas!5e0!3m2!1ses-419!2shn!4v1750971852961!5m2!1ses-419!2shn"
+                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </article>
+
+        <h2>Formulario</h2>
+        <article>
+            <iframe
+                src="https://docs.google.com/forms/d/e/1FAIpQLSd26HDRmP0X5RSGDjZCRs6qNbvgc-WOAJIWCsD0Y_Ypof0gsA/viewform?embedded=true"
+                width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+        </article>
+
+
+</body>
+
+</html>
